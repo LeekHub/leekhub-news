@@ -29,7 +29,7 @@ async function handleREADME(newData) {
   content = compiled({
     homePage,
     newData,
-    currentDate,
+    currentDate
   })
 
   fs.writeFileSync(README_PATH, content, 'utf-8')
@@ -48,7 +48,7 @@ async function handleCATEGORIES(newData, linksJson) {
     newData,
     linksJson,
     currentDate,
-    formatTitle: utils.formatTitle,
+    formatTitle: utils.formatTitle
   })
 
   fs.writeFileSync(CATEGORIES_PATH, content, 'utf-8')
@@ -66,8 +66,8 @@ function handleTags(newData, linksJson) {
 
     linksJson.forEach((o) => {
       o.items.forEach((item) => {
-        if (!item.rssTitle && (new RegExp(tag.keywords, 'gi')).test(item.title)) {
-          item.rssTitle = o.title
+        if (!item.rssTitle && new RegExp(tag.keywords, 'gi').test(item.title)) {
+          item.rssTitle = o?.title
           tags[i].items.push(item)
         }
       })
@@ -87,7 +87,6 @@ function handleTags(newData, linksJson) {
     })
 
     fs.writeFileSync(path.join(RESP_PATH, 'details/tags/', filename), detailContent, 'utf-8')
-
   })
 
   let content = fs.readFileSync(TAGS_TEMPLATE_PATH)

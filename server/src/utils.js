@@ -60,7 +60,7 @@ module.exports = {
    */
   formatTitle(title) {
     return title
-      .replace('<![CDATA[', '')
+      ?.replace('<![CDATA[', '')
       .replace(']]>', '')
       .replace(/[\[\]\(\)]/g, '')
       .replace(/\s+/g, '-')

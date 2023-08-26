@@ -12,10 +12,6 @@
     "rss": "https://rsshub.leekhub.com/bigquant/collections"
   },
   {
-    "title": "世界经济论坛",
-    "rss": "https://rsshub.leekhub.com/weforum/report"
-  },
-  {
     "title": "财联社",
     "rss": "https://rsshub.leekhub.com/cls/telegraph"
   },
@@ -24,7 +20,7 @@
     "rss": "https://rsshub.leekhub.com/cls/depth/1000"
   },
   {
-    "title": "金十快讯",
-    "rss": "https://rsshub.leekhub.com/jin10"
+    "title": "7x24 小时快讯",
+    "rss": "https://rsshub.leekhub.com/fx678/kx"
   }
 ]
