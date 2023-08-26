@@ -92,10 +92,10 @@ const handleFeed = () => {
 
 const handleCommit = () => {
   utils.log('完成抓取，即将上传')
-  git
-    .add('./*')
-    .commit('🌟 Update ' + newData.titles.join('、'))
-    .push(['-u', 'origin', 'main'], () => utils.logSuccess('完成抓取与上传'))
+  // git
+  //   .add('./*')
+  //   .commit('🌟 Update ' + newData.titles.join('、'))
+  //   .push(['-u', 'origin', 'main'], () => utils.logSuccess('完成抓取与上传'))
 }
 
 module.exports = handleUpdate

@@ -41,5 +41,5 @@ jobs:
       - name: Commit 🔧
         run: |
           git add .
-          git commit -m 'chore(ci): news sync'
+          git commit -m 'chore(ci): 🌟 Update news'
           git push
