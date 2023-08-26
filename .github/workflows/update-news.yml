@@ -3,7 +3,7 @@ name: Update news
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '20 * * * *'
   # https://docs.github.com/cn/developers/webhooks-and-events/events/issue-event-types
   # issues:
   #   types:
