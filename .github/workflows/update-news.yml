@@ -33,8 +33,9 @@ jobs:
         run: |
           cd server
           yarn install
-          git remote -v
-          node ./src/once.js
+          cd ..
+          node ./server/src/once.js
+          ls -l
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
