@@ -36,7 +36,10 @@ jobs:
           cd server
           yarn install
           pwd
+          git remote -v
           node ./src/once.js
+      - name: Commit 🔧
+        run: |
           git add .
           git commit -m 'chore(ci): news sync'
           git push
