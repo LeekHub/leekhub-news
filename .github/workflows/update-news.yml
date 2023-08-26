@@ -36,7 +36,7 @@ jobs:
           cd server
           yarn install
           pwd
-          node ./server/src/once.js
+          node ./src/once.js
           git add .
           git commit -m 'chore(ci): news sync'
           git push
