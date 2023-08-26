@@ -42,7 +42,8 @@ jobs:
 
       - name: Update news
         run: |
-          node test.js
+          pwd
+          node ./server/src/once.js
           git add .
           git commit -m 'chore(ci): news sync'
           git push
