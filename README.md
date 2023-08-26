@@ -46,6 +46,8 @@
 
 如果你有高质量的 金融 相关的公众号、订阅号推荐，请提出 [Issue](https://github.com/LeekHub/leekhub-news/issues)，我会及时进行更新，感谢分享！
 
+> RSS 格式校验：https://validator.w3.org/feed/check.cgi
+
 ## 特别鸣谢
 
 感谢 [RSSHub](https://github.com/DIYgod/RSSHub) 提供的微信公众号 RSS 链接
