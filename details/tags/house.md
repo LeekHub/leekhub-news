@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-27 02:51:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-26 19:26:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -7,8 +7,9 @@
 
 
 
-- [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
+- [2023-08-26-上半年提前还贷潮影响究竟多大？建行交行招行房贷余额目前缩减最多，农商行暂时“全军覆没”|透视银行半年报](https://www.cls.cn/detail/1445074) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
+- [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-26-上半年提前还贷潮影响究竟多大？建行交行招行房贷余额目前缩减最多，农商行暂时“全军覆没”|透视银行半年报](https://www.cls.cn/detail/1445074) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
