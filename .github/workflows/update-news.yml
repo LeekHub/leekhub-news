@@ -31,17 +31,10 @@ jobs:
           git config --global user.name "giscafer"
           git config --global user.email "giscafer@outlook.com"
 
-      - name: Display runtime info ✨
-        run: |
-          cd server
-          echo '当前目录：'
-          pwd
-
-      - name: Install 🔧
-        run: yarn install
-
       - name: Update news
         run: |
+          cd server
+          yarn install
           pwd
           node ./server/src/once.js
           git add .
