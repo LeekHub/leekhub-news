@@ -29,3 +29,4 @@ coverage
 
 .history
 .vercel
+package-lock.json

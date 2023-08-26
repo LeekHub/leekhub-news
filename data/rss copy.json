@@ -1,30 +1,6 @@
 [
   {
-    "title": "AI财经社",
-    "rss": "https://rsshub.app/aicaijing/latest"
-  },
-  {
-    "title": "推荐资讯",
-    "rss": "https://rsshub.app/aicaijing/recommend"
-  },
-  {
-    "title": "专题报告",
-    "rss": "https://rsshub.app/bigquant/collections"
-  },
-  {
-    "title": "世界经济论坛",
-    "rss": "https://rsshub.app/weforum/report"
-  },
-  {
-    "title": "财联社",
-    "rss": "https://rsshub.app/cls/telegraph"
-  },
-  {
-    "title": "深度",
-    "rss": "https://rsshub.app/cls/depth/1000"
-  },
-  {
-    "title": "金十快讯",
-    "rss": "https://rsshub.app/jin10"
+    "title": "7x24 小时快讯",
+    "rss": "https://rsshub.leekhub.com/fx678/kx"
   }
 ]
