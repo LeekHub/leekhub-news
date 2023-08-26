@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/LeekHub/leekhub-news?display_name=tag" />
-  <img src="https://img.shields.io/github/stars/lekkhub/leekhub-news" />
+  <img src="https://img.shields.io/github/stars/LeekHub/leekhub-news" />
   <img src="https://img.shields.io/github/forks/LeekHub/leekhub-news" />
   <img src="https://img.shields.io/github/issues/LeekHub/leekhub-news" />
   <img src="https://img.shields.io/badge/license-Apache%20-yellow.svg" />
