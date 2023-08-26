@@ -1,33 +1,13 @@
 [
   {
-    "tag": "AI",
-    "filename": "ai",
-    "keywords": "AI|ai|图灵|prompt|Prompt|Transformer|DeepMind|Copilot|Hugging|Face"
-  },
-  {
-    "tag": "LLM",
-    "filename": "llm",
-    "keywords": "LLM|llm|大模型|模型|Hugging Face|Hugging|Face|prompt|Prompt"
-  },
-  {
-    "tag": "GPT",
-    "filename": "gpt",
-    "keywords": "gpt|chatgpt|aigc|AIGC|openai|OpenAI|Open AI|GPT|GPT-4|ChatGPT|prompt|Prompt|DALL|Dall"
-  },
-  {
     "tag": "AIGC",
     "filename": "aigc",
-    "keywords": "AIGC|aigc|gpt|文心一言|通义千问|Stable|Diffusion|Stable Diffusion|Midjourney|Hugging Face|Hugging|Face|openai|OpenAI|Open AI|prompt|Prompt|DALL|Dall|Bard"
+    "keywords": "AIGC|aigc|gpt|文心一言|通义千问|Stable|Diffusion|Stable Diffusion|Midjourney|Hugging Face|Hugging|Face|openai|OpenAI|Open AI|prompt|Prompt|DALL|Dall|Bard|LLM|llm|大模型|模型|Hugging Face"
   },
   {
-    "tag": "文心一言",
-    "filename": "wenxin",
-    "keywords": "文心一言|百度|Baidu"
-  },
-  {
-    "tag": "科技",
+    "tag": "TMT",
     "filename": "tech",
-    "keywords": "科技|半导体|芯片"
+    "keywords": "科技|半导体|芯片|电信|集成电路|中国移动|中国联通"
   },
   {
     "tag": "消费",
@@ -40,14 +20,9 @@
     "keywords": "教育|培训|学校|教育培训|教育学校"
   },
   {
-    "tag": "地产",
+    "tag": "三傻",
     "filename": "house",
-    "keywords": "地产|房地产|房贷"
-  },
-  {
-    "tag": "银行保险",
-    "filename": "bank",
-    "keywords": "银行|保险|LPR|降息|加息"
+    "keywords": "地产|房地产|银行|保险"
   },
   {
     "tag": "其它",
