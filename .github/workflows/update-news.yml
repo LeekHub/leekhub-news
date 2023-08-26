@@ -4,16 +4,6 @@ name: Update news
 on:
   schedule:
     - cron: '20 * * * *'
-  # https://docs.github.com/cn/developers/webhooks-and-events/events/issue-event-types
-  # issues:
-  #   types:
-  #     - opened
-  #     - closed
-  #     - renamed
-  #     - labeled
-  #     - unlabeled
-  #     - reopened
-  #     - committed # 修改？
   workflow_dispatch:
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -35,9 +25,9 @@ jobs:
           yarn install
           cd ..
           node ./server/src/once.js
-          ls -l
+          ls -l details
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          branch: ${{ github.ref }}
+        run: |
+          git add .
+          git commit -m 'chore(ci): Update news'
+          git push
