@@ -44,7 +44,9 @@
 
 ## 贡献指南
 
-如果你有高质量的 `金融` 相关的公众号、订阅号推荐，请提出 [Issue](https://github.com/LeekHub/leekhub-news/issues)，我会及时进行更新，感谢分享！
+如果你有高质量的 `金融` 相关的公众号、或 RSS 推荐，请提出 [Issue](https://github.com/LeekHub/leekhub-news/issues)，我会及时进行更新，感谢分享！
+
+> https://validator.w3.org/feed/check.cgi 可校验 rss 格式是否正确
 
 ## 特别鸣谢
 

@@ -1,26 +1,14 @@
 [
   {
-    "title": "AI财经社",
-    "rss": "https://rsshub.leekhub.com/aicaijing/latest"
-  },
-  {
-    "title": "推荐资讯",
-    "rss": "https://rsshub.leekhub.com/aicaijing/recommend"
-  },
-  {
-    "title": "专题报告",
-    "rss": "https://rsshub.leekhub.com/bigquant/collections"
+    "title": "财联社",
+    "rss": "https://rsshub.leekhub.com/cls/hot"
   },
   {
     "title": "财联社",
-    "rss": "https://rsshub.leekhub.com/cls/telegraph"
+    "rss": "https://rsshub.leekhub.com/cls/hot"
   },
   {
-    "title": "深度",
-    "rss": "https://rsshub.leekhub.com/cls/depth/1000"
-  },
-  {
-    "title": "7x24 小时快讯",
-    "rss": "https://rsshub.leekhub.com/fx678/kx"
+    "title": "雪球热帖",
+    "rss": "https://rsshub.leekhub.com/xueqiu/hots"
   }
 ]
