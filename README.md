@@ -26,9 +26,9 @@
 
 备用网站：[https://leekhub-news.vercel.app/](https://leekhub-news.vercel.app/)
 
-:alarm_clock: 更新时间: 2023-08-26 21:00:19
+:alarm_clock: 更新时间: 2023-08-27 01:27:34
 
-:rocket: 更新条数: +4 - ![](/assets/dot.png) 表示有更新
+:rocket: 更新条数: +30 - ![](/assets/dot.png) 表示有更新
 
 ## 查看文章
 
@@ -44,9 +44,7 @@
 
 ## 贡献指南
 
-如果你有高质量的 金融 相关的公众号、订阅号推荐，请提出 [Issue](https://github.com/LeekHub/leekhub-news/issues)，我会及时进行更新，感谢分享！
-
-> RSS 格式校验：https://validator.w3.org/feed/check.cgi
+如果你有高质量的 `金融` 相关的公众号、订阅号推荐，请提出 [Issue](https://github.com/LeekHub/leekhub-news/issues)，我会及时进行更新，感谢分享！
 
 ## 特别鸣谢
 
