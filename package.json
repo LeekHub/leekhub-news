@@ -1,7 +1,7 @@
 {
   "name": "leekhub-news",
   "version": "1.0.0",
-  "description": "GPT RSS, 定时抓取前沿 AIGC/GPT/LLM 文章",
+  "description": "LeekHub News, 定时抓取金融资讯",
   "license": "MIT",
   "author": "giscafer<giscafer@outlook.com>",
   "scripts": {

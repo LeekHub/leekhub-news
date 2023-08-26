@@ -3,7 +3,7 @@
 </p>
 <div align="center">
  
-# GPT RSS
+# LeekHub News
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line MD036 -->
