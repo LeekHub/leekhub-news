@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/LeekHub/leekhub-news?display_name=tag" />
-  <img src="https://img.shields.io/github/stars/lekkhub/leekhub-news" />
+  <img src="https://img.shields.io/github/stars/LeekHub/leekhub-news" />
   <img src="https://img.shields.io/github/forks/LeekHub/leekhub-news" />
   <img src="https://img.shields.io/github/issues/LeekHub/leekhub-news" />
   <img src="https://img.shields.io/badge/license-Apache%20-yellow.svg" />
@@ -45,6 +45,8 @@
 ## 贡献指南
 
 如果你有高质量的 金融 相关的公众号、订阅号推荐，请提出 [Issue](https://github.com/LeekHub/leekhub-news/issues)，我会及时进行更新，感谢分享！
+
+> RSS 格式校验：https://validator.w3.org/feed/check.cgi
 
 ## 特别鸣谢
 

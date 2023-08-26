@@ -4,11 +4,11 @@
     <van-search
       class="search-box"
       v-model="keyword"
-      placeholder="搜索 AI 技术文章"
+      placeholder="输入关键字搜索"
       shape="round"
       show-action
       @search="onSearch"
-      @cancel="onCancle"
+      @cancel="onCancel"
     >
     </van-search>
 
@@ -170,7 +170,7 @@ const onSearch = () => {
   handleSearch()
 }
 
-const onCancle = () => {
+const onCancel = () => {
   console.log(keyword.value)
   keyword.value = ''
   handleSearch()
@@ -254,7 +254,7 @@ let tagsMap: Map<string, Article[]> = new Map<string, Article[]>()
 
 const loadData = async () => {
   console.log(links)
-  links.forEach((source) => {
+  links.forEach((source: any) => {
     rssMap[source.title] = source.items.sort(
       (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
     )
