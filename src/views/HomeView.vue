@@ -4,7 +4,7 @@
     <van-search
       class="search-box"
       v-model="keyword"
-      placeholder="搜索 AI 技术文章"
+      placeholder="输入关键字搜索"
       shape="round"
       show-action
       @search="onSearch"
